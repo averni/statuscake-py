@@ -42,7 +42,7 @@ VERSION = '1.2.0-beta.1'
 
 REQUIRES = [
     'urllib3~=1.25.3',
-    'python-dateutil~=2.5.3',
+    'python-dateutil~=2.8.2',
 ]
 
 TESTS_REQUIRE = [
