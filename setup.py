@@ -41,7 +41,7 @@ VERSION = '1.2.0-beta.1'
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
-    'urllib3~=1.25.3',
+    'urllib3~=2.1.0',
     'python-dateutil~=2.8.2',
 ]
 
